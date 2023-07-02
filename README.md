@@ -1,6 +1,6 @@
 # MEMC plug to FFC adapter
 
-April 2023
+July 2023
 
 
 ![3D View](Generated/MEMC_Plug_FFC_3D_View.PNG)
